@@ -1,26 +1,27 @@
 # Luis Braghin
 
-Desenvolvedor full-stack especializado em inteligência artificial, automação e produtos digitais.
+Economista e desenvolvedor full-stack, com atuação em inteligência artificial, automação e produtos digitais.
 
-Transformo processos reais em software claro, confiável e utilizável. Trabalho entre produto e engenharia, construindo aplicações web, SaaS multi-tenant, ferramentas de CRM, experiências com IA e operações orientadas por dados.
+Trabalho entre negócio, produto e tecnologia: entendo a operação, defino a solução e acompanho sua construção, implantação e evolução. Minha experiência reúne planejamento comercial em banco, sistemas internos, aplicações com IA e produtos desenvolvidos para clientes.
 
 [Portfólio](https://luisbraghin.com.br/br?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=portfolio) · [English](https://luisbraghin.com.br/en?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=portfolio_en) · [LinkedIn](https://www.linkedin.com/in/luisbraghin/)
 
-## Projetos em destaque
+## Projetos selecionados
 
-| Projeto | O que foi construído | Conheça |
+| Projeto | O que desenvolvi | Conheça |
 | --- | --- | --- |
-| **Disparador** | Plataforma de e-mail marketing com campanhas pontuais, agendadas e cadenciadas, tracking, analytics e fila assíncrona. | [Estudo de caso](https://luisbraghin.com.br/projetos/disparador/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=disparador_case) · [Modo visitante](https://disparador.luisbraghin.com.br/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=disparador_demo) |
-| **FalaFit** | Aplicativo de acompanhamento nutricional por voz, com estruturação de refeições, calorias, macronutrientes e evolução diária. | [Estudo de caso](https://luisbraghin.com.br/projetos/falafit/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=falafit_case) |
-| **PortariaGo** | Plataforma multi-tenant de portaria digital com notificações, comunicação em tempo real e experiência móvel. | [Estudo de caso](https://luisbraghin.com.br/projetos/portariago/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=portariago_case) |
-| **Dossiê de Empresa** | Ferramenta que transforma dados públicos de empresas em uma leitura comercial organizada e utilizável. | [Estudo de caso](https://luisbraghin.com.br/projetos/dossie-de-empresa/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=dossie_case) |
+| **Portal de Planejamento · Travelex** | Plataforma interna que integra CRM, processos de contratos e solicitações, atendimento e inteligência comercial, com recursos de IA. | [Apresentação no portfólio](https://luisbraghin.com.br/br?p=travelex-portal) |
+| **CRIT-IX Networks** | Site e plataforma B2B para catálogo técnico, cotações, relacionamento com distribuidores e propostas comerciais. | [Apresentação](https://luisbraghin.com.br/br?p=critical-power) · [Site](https://crit-ix.com) |
+| **Acelera Racing** | Aplicativo mobile para iOS e Android, publicado na App Store e na Google Play. Integra loja, agendamentos, escola de pilotagem, eventos e comunidade ao site e à gestão do negócio. | [App Store](https://apps.apple.com/br/app/acelera-racing/id6770384289) · [Google Play](https://play.google.com/store/apps/details?id=com.aceleraracing.app) · [Apresentação](https://luisbraghin.com.br/br?p=acelera) |
+| **Ronron Cat Café** | Aplicativo mobile para iOS e Android, integrado ao site e à operação do café: reservas, oficinas, experiências, adoção de gatos e benefícios do Meu Ronron. | [App Store](https://apps.apple.com/br/app/ronron-cat-caf%C3%A9/id6802532581) · [Google Play](https://play.google.com/store/apps/details?id=com.ronroncatcafe.app) · [Apresentação](https://luisbraghin.com.br/br?p=ronron) |
+| **PortariaGo** | Aplicativo mobile para iOS e Android, em produção em condomínios. Conecta porteiros e moradores com avisos de entrega, confirmação de retirada e histórico de notificações. | [App Store](https://apps.apple.com/br/app/portaria-go/id6759523269) · [Estudo de caso](https://luisbraghin.com.br/projetos/portariago/) |
 
-## Tecnologias
+## Competências e ferramentas
 
-TypeScript, React, Python, FastAPI, SQLAlchemy, PostgreSQL, Supabase, Docker, Cloudflare e integrações com modelos de inteligência artificial.
+IA aplicada, automação de processos, integrações, análise de dados e desenvolvimento de produtos web e mobile.
+
+Tecnologias utilizadas nos projetos: TypeScript, React, Next.js, Python, SQL, PostgreSQL, Supabase, Cloudflare e APIs de inteligência artificial. Codex e Claude Code fazem parte das minhas ferramentas de desenvolvimento.
 
 ## Conteúdo
 
-Escrevo sobre engenharia de produto, automação observável, inteligência artificial aplicada e a transformação de protótipos em produtos reais.
-
-[Ler artigos](https://luisbraghin.com.br/artigos/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=articles)
+[Artigos sobre produto, automação e IA aplicada](https://luisbraghin.com.br/artigos/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=articles)
